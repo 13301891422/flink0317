@@ -40,7 +40,7 @@ object Flink_CheckPoint_Test {
     //    val stateBackend: StateBackend = new RocksDBStateBackend("hdfs://mycluster/flink/checkpoint")
     //    env.setStateBackend(stateBackend)
 
-    env.setStateBackend(new RocksDBStateBackend("hdfs:///C:\\bigData\\ideaWorkSpace\\flink-scala-code\\output"))
+    env.setStateBackend(new RocksDBStateBackend("hdfs://hadoop105:9000/user"))
 
 
 
