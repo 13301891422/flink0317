@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5160381-076d-4d16-8035-dc70cc233427" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\bigData\apache-maven-3.5.4-bin\apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\bigData\apache-maven-3.5.4-bin\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1j3KK1TfBSmzEl4xeJRSrpCKn9r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lixiyan4633-SpringBoot-master/SpringBoot" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.chapter05" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Flink_CheckPoint_Test">
+    <configuration name="Flink02_WC_BoundedStream" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.chapter02.Flink02_WC_BoundedStream" />
+      <module name="flink-scala-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.chapter02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Flink04_WC_Parallelism" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.chapter02.Flink04_WC_Parallelism" />
+      <module name="flink-scala-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.chapter02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Flink23_Case_PV" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.chapter05.Flink23_Case_PV" />
+      <module name="flink-scala-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.chapter05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Flink25_Case_UV_WithWindow" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.chapter06.Flink25_Case_UV_WithWindow" />
+      <module name="flink-scala-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.chapter06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Flink_CheckPoint_Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.chapter05.Flink_CheckPoint_Test" />
+      <module name="flink-scala-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.chapter05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Flink_CheckPoint_Test" />
+        <item itemvalue="Application.Flink25_Case_UV_WithWindow" />
+        <item itemvalue="Application.Flink23_Case_PV" />
+        <item itemvalue="Application.Flink04_WC_Parallelism" />
+        <item itemvalue="Application.Flink02_WC_BoundedStream" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5160381-076d-4d16-8035-dc70cc233427" name="Default Changelist" comment="" />
+      <created>1603027268872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603027268872</updated>
+      <workItem from="1603027270001" duration="15000" />
+      <workItem from="1603027293090" duration="1691000" />
+      <workItem from="1603264873463" duration="883000" />
+      <workItem from="1603514448855" duration="201000" />
+      <workItem from="1603532410201" duration="763000" />
+      <workItem from="1604236802090" duration="71000" />
+      <workItem from="1604754952165" duration="1405000" />
+      <workItem from="1605278358553" duration="514000" />
+      <workItem from="1605447646966" duration="674000" />
+      <workItem from="1605448462336" duration="165000" />
+      <workItem from="1605448648643" duration="37000" />
+      <workItem from="1605450394918" duration="40000" />
+      <workItem from="1605450595169" duration="4000" />
+      <workItem from="1605450643686" duration="930000" />
+      <workItem from="1605491296356" duration="1182000" />
+      <workItem from="1605494859480" duration="23000" />
+      <workItem from="1605535903606" duration="1927000" />
+      <workItem from="1605577583874" duration="627000" />
+      <workItem from="1607263293242" duration="9000" />
+      <workItem from="1607349172142" duration="324000" />
+      <workItem from="1607432660728" duration="50000" />
+      <workItem from="1607434707472" duration="557000" />
+      <workItem from="1608386818329" duration="2396000" />
+      <workItem from="1608429211012" duration="11659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1608387338926">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1608387338926" />
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1608461156071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1608461156071" />
+    <state x="503" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608472299150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="503" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1608472299150" />
+    <state x="513" y="327" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1603027328280">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="513" y="327" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824@0.0.1536.824" timestamp="1603027328280" />
+    <state x="574" y="104" key="#com.intellij.ide.util.MemberChooser" timestamp="1608438041585">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="104" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1608438041585" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605578214391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605578214391" />
+    <state x="640" y="310" key="Github.ShareDialog" timestamp="1608472555302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="640" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1608472555302" />
+    <state width="1493" height="283" key="GridCell.Tab.0.bottom" timestamp="1608472482131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608472482131" />
+    <state width="1493" height="283" key="GridCell.Tab.0.center" timestamp="1608472482131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608472482131" />
+    <state width="1493" height="283" key="GridCell.Tab.0.left" timestamp="1608472482131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608472482131" />
+    <state width="1493" height="283" key="GridCell.Tab.0.right" timestamp="1608472482131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608472482131" />
+    <state width="1493" height="269" key="GridCell.Tab.1.bottom" timestamp="1608389216990">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="269" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608389216990" />
+    <state width="1493" height="269" key="GridCell.Tab.1.center" timestamp="1608389216990">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="269" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608389216990" />
+    <state width="1493" height="269" key="GridCell.Tab.1.left" timestamp="1608389216990">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="269" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608389216990" />
+    <state width="1493" height="269" key="GridCell.Tab.1.right" timestamp="1608389216990">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="269" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608389216990" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1608461030862">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608461030862" />
+    <state x="178" y="72" key="new project wizard" timestamp="1605491311878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="72" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1605491311878" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1608438686746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1608438686746" />
+  </component>
+</project>
